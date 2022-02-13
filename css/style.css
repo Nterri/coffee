@@ -303,7 +303,7 @@ body.lock {
 }
 
 .header__back {
-  background: url(png/background.png) center no-repeat;
+  background: url(../png/background.png) center no-repeat;
   -ms-grid-column: 3;
   -ms-grid-column-span: 1;
   grid-column: 3/4;
@@ -1074,7 +1074,7 @@ body.lock {
 }
 
 .slider .slick-arrow.slick-next::after {
-  content: url(svg/arrow.svg);
+  content: url(../svg/arrow.svg);
   text-align: center;
 }
 
@@ -1596,7 +1596,7 @@ body.lock {
 }
 
 .slider2 .slick-arrow.slick-next::after {
-  content: url(svg/arrow.svg);
+  content: url(../svg/arrow.svg);
   text-align: center;
 }
 
